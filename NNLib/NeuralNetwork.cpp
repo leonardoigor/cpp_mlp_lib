@@ -158,8 +158,8 @@ void NeuralNetwork::mutation(double mutateRate)
 
     if (dis(gen) < mutateRate)
     {
-        int neuronIndex = std::floor(dis(gen) * hiddenSize);
-        int weightIndex = std::floor(dis(gen) * weights2[neuronIndex].size());
+        int neuronIndex = (int)std::floor(dis(gen) * hiddenSize);
+        int weightIndex = (int)std::floor(dis(gen) * weights2[neuronIndex].size());
         weights2[neuronIndex][weightIndex] = dis(gen) * 2000 - 1000;
     }
 }
