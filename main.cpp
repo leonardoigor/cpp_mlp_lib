@@ -35,7 +35,7 @@ int main(int, char **)
     nn.printLayers();
     // Training the network
     double learningRate = 0.1;
-    int epochs = 100000;
+    int epochs = 1000000;
     for (int epoch = 0; epoch < epochs; ++epoch)
     {
         for (size_t i = 0; i < inputs.size(); ++i)
