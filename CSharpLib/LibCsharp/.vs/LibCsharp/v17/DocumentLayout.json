@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Devs\\nn_lib_cpp\\CSharpLib\\LibCsharp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A66A1CB8-2E7B-4D13-8542-E7730779E828}|ConsoleTest\\ConsoleTest.csproj|d:\\devs\\nn_lib_cpp\\csharplib\\libcsharp\\consoletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A66A1CB8-2E7B-4D13-8542-E7730779E828}|ConsoleTest\\ConsoleTest.csproj|solutionrelative:consoletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32BBF1FB-028B-4EAE-8427-4DEC3D67100F}|ML\\ML.csproj|d:\\devs\\nn_lib_cpp\\csharplib\\libcsharp\\ml\\nnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32BBF1FB-028B-4EAE-8427-4DEC3D67100F}|ML\\ML.csproj|solutionrelative:ml\\nnmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A66A1CB8-2E7B-4D13-8542-E7730779E828}|ConsoleTest\\ConsoleTest.csproj|d:\\devs\\nn_lib_cpp\\csharplib\\libcsharp\\consoletest\\consoletest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A66A1CB8-2E7B-4D13-8542-E7730779E828}|ConsoleTest\\ConsoleTest.csproj|solutionrelative:consoletest\\consoletest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleTest",
+              "DocumentMoniker": "D:\\Devs\\nn_lib_cpp\\CSharpLib\\LibCsharp\\ConsoleTest\\ConsoleTest.csproj",
+              "RelativeDocumentMoniker": "ConsoleTest\\ConsoleTest.csproj",
+              "ToolTip": "D:\\Devs\\nn_lib_cpp\\CSharpLib\\LibCsharp\\ConsoleTest\\ConsoleTest.csproj",
+              "RelativeToolTip": "ConsoleTest\\ConsoleTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T22:27:53.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NNModel.cs",
+              "DocumentMoniker": "D:\\Devs\\nn_lib_cpp\\CSharpLib\\LibCsharp\\ML\\NNModel.cs",
+              "RelativeDocumentMoniker": "ML\\NNModel.cs",
+              "ToolTip": "D:\\Devs\\nn_lib_cpp\\CSharpLib\\LibCsharp\\ML\\NNModel.cs",
+              "RelativeToolTip": "ML\\NNModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:17:38.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devs\\nn_lib_cpp\\CSharpLib\\LibCsharp\\ConsoleTest\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleTest\\Program.cs",
+              "ToolTip": "D:\\Devs\\nn_lib_cpp\\CSharpLib\\LibCsharp\\ConsoleTest\\Program.cs",
+              "RelativeToolTip": "ConsoleTest\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T22:16:29.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

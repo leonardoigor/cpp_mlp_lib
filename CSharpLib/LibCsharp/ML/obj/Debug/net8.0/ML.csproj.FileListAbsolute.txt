@@ -1,0 +1,12 @@
+D:\Devs\nn_lib_cpp\CSharpLib\LibCsharp\ML\bin\Debug\net8.0\ML.deps.json
+D:\Devs\nn_lib_cpp\CSharpLib\LibCsharp\ML\bin\Debug\net8.0\ML.dll
+D:\Devs\nn_lib_cpp\CSharpLib\LibCsharp\ML\bin\Debug\net8.0\ML.pdb
+D:\Devs\nn_lib_cpp\CSharpLib\LibCsharp\ML\obj\Debug\net8.0\ML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devs\nn_lib_cpp\CSharpLib\LibCsharp\ML\obj\Debug\net8.0\ML.AssemblyInfoInputs.cache
+D:\Devs\nn_lib_cpp\CSharpLib\LibCsharp\ML\obj\Debug\net8.0\ML.AssemblyInfo.cs
+D:\Devs\nn_lib_cpp\CSharpLib\LibCsharp\ML\obj\Debug\net8.0\ML.csproj.CoreCompileInputs.cache
+D:\Devs\nn_lib_cpp\CSharpLib\LibCsharp\ML\obj\Debug\net8.0\ML.sourcelink.json
+D:\Devs\nn_lib_cpp\CSharpLib\LibCsharp\ML\obj\Debug\net8.0\ML.dll
+D:\Devs\nn_lib_cpp\CSharpLib\LibCsharp\ML\obj\Debug\net8.0\refint\ML.dll
+D:\Devs\nn_lib_cpp\CSharpLib\LibCsharp\ML\obj\Debug\net8.0\ML.pdb
+D:\Devs\nn_lib_cpp\CSharpLib\LibCsharp\ML\obj\Debug\net8.0\ref\ML.dll
